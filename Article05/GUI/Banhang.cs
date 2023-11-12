@@ -20,7 +20,7 @@ namespace Article05.GUI
 
         private void Banhang_Load(object sender, EventArgs e)
         {
-            // TODO: This line of code loads data into the 'sale1DataSet4.banhang2' table. You can move, or remove it, as needed.
+            // TODO: This line of code loads data into the 'sale1DasxstaSet4.banhang2' table. You can move, or remove it, as needed.
             this.banhang2TableAdapter1.Fill(this.sale1DataSet4.banhang2);
             // TODO: This line of code loads data into the 'sale1DataSet3.banhangvd2' table. You can move, or remove it, as needed.
             this.banhang2TableAdapter.Fill(this.sale1DataSet3.banhang2);
